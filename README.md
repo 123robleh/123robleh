@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Robleh
 
-<!--
-**123robleh/123robleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **sciences des données (Data Science)**  
+🤖 Intéressé par l’**intelligence artificielle** et l’analyse de données  
+📊 J’aime apprendre à travers des **projets concrets**
 
-Here are some ideas to get you started:
+### 🔭 Projet principal
+**Analyse de données sur les nouveau-nés**
+- Analyse et exploration de données réelles
+- Utilisation de **Python**
+- Application de concepts de **data science** et d’**IA**
+- Objectif : comprendre les données et faire des prédictions simples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Compétences
+- Python  
+- Analyse de données  
+- Bases en intelligence artificielle  
+- Manipulation et nettoyage de données
