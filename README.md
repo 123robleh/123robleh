@@ -1,18 +1,18 @@
-## Hi there 👋 I'm Robleh
+# Robleh Abdillahi Omar
 
-🎓 Étudiant en **sciences des données (Data Science)**  
-🤖 Intéressé par l’**intelligence artificielle** et l’analyse de données  
-📊 J’aime apprendre à travers des **projets concrets**
+Data Science student at La Cité College (Applied Data Science program).
 
-### 🔭 Projet principal
-**Analyse de données sur les nouveau-nés**
-- Analyse et exploration de données réelles
-- Utilisation de **Python**
-- Application de concepts de **data science** et d’**IA**
-- Objectif : comprendre les données et faire des prédictions simples
+## About Me
+I am interested in artificial intelligence, data analysis, and software development. 
+I like learning through projects and applying data science techniques to real datasets.
 
-### 🌱 Compétences
-- Python  
-- Analyse de données  
-- Bases en intelligence artificielle  
-- Manipulation et nettoyage de données
+## Featured Project
+Neonatal Risk Data Analysis  
+Exploratory and predictive analysis of newborn clinical data using Python.
+
+## Skills
+- Python
+- Data Analysis
+- Data Cleaning and Manipulation
+- Basic Machine Learning
+- SQL and Databases
